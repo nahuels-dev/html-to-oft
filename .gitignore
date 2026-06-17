@@ -1,0 +1,6 @@
+node_modules/
+dist/
+coverage/
+*.log
+*.oft
+.DS_Store
